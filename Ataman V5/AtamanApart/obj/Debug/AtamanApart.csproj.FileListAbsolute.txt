@@ -1,0 +1,182 @@
+D:\AtamanApart\AtamanApart\AtamanApart\bin\Debug\AtamanApart.exe.config
+D:\AtamanApart\AtamanApart\AtamanApart\bin\Debug\AtamanApart.exe
+D:\AtamanApart\AtamanApart\AtamanApart\bin\Debug\AtamanApart.pdb
+D:\AtamanApart\AtamanApart\AtamanApart\bin\Debug\MaterialSkin.dll
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Properties.Resources.resources
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csproj.GenerateResource.cache
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csproj.CoreCompileInputs.cache
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csproj.CopyComplete
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.exe
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.pdb
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csprojAssemblyReference.cache
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Login.resources
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.MainPage.resources
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Student.resources
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.StudentRegistry.resources
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Staff.resources
+D:\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Payment.resources
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csprojAssemblyReference.cache
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.MainPage.resources
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Login.resources
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Payment.resources
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Properties.Resources.resources
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Staff.resources
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Student.resources
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.StudentRegistry.resources
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csproj.GenerateResource.cache
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csproj.CoreCompileInputs.cache
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.exe
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.pdb
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\bin\Debug\AtamanApart.exe.config
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\bin\Debug\AtamanApart.exe
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\bin\Debug\AtamanApart.pdb
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\bin\Debug\MaterialSkin.dll
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.kullanici_kayit.resources
+C:\Users\bahar kuzu\Desktop\Ataman V2\AtamanApart\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csproj.CopyComplete
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\bin\Debug\AtamanApart.exe.config
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\bin\Debug\AtamanApart.exe
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\bin\Debug\AtamanApart.pdb
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\bin\Debug\MaterialSkin.dll
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csprojAssemblyReference.cache
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.kullanici_kayit.resources
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.MainPage.resources
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Login.resources
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Payment.resources
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Properties.Resources.resources
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Staff.resources
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Student.resources
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.StudentRegistry.resources
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csproj.GenerateResource.cache
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csproj.CoreCompileInputs.cache
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.csproj.CopyComplete
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.exe
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.pdb
+D:\AtamanApart\Ataman V3\AtamanApart\AtamanApart\obj\Debug\AtamanApart.Visitor.resources
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\bin\Debug\AtamanApart.exe.config
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\bin\Debug\AtamanApart.exe
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\bin\Debug\AtamanApart.pdb
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\bin\Debug\MaterialSkin.dll
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.csprojAssemblyReference.cache
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.kullanici_kayit.resources
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.MainPage.resources
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.Login.resources
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.Payment.resources
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.Properties.Resources.resources
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.Staff.resources
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.Student.resources
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.StudentRegistry.resources
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.Visitor.resources
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.csproj.GenerateResource.cache
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.csproj.CoreCompileInputs.cache
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.csproj.CopyComplete
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.exe
+C:\Users\bahar kuzu\Desktop\AtamanApartDuzenlenmis-20190328T192747Z-001\AtamanApartDuzenlenmis\AtamanApart\obj\Debug\AtamanApart.pdb
+D:\ApartOtomasyon\Ataman V5\AtamanApart\bin\Debug\AtamanApart.exe.config
+D:\ApartOtomasyon\Ataman V5\AtamanApart\bin\Debug\AtamanApart.exe
+D:\ApartOtomasyon\Ataman V5\AtamanApart\bin\Debug\AtamanApart.pdb
+D:\ApartOtomasyon\Ataman V5\AtamanApart\bin\Debug\MaterialSkin.dll
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csprojAssemblyReference.cache
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.MainPage.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Login.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Payment.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Properties.Resources.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Staff.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Student.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.StudentRegistry.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Visitor.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.GenerateResource.cache
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.CoreCompileInputs.cache
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.CopyComplete
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.exe
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.pdb
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.VisitorRegistry.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.StaffRegistry.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\bin\Debug\Interop.AcroPDFLib.dll
+D:\ApartOtomasyon\Ataman V5\AtamanApart\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\Interop.AcroPDFLib.dll
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.ResolveComReference.cache
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.PaymentRegistry.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.RoomInfo.resources
+D:\ApartOtomasyon\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Signup.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csprojAssemblyReference.cache
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\Interop.AcroPDFLib.dll
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.ResolveComReference.cache
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.RoomInfo.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Signup.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.MainPage.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Login.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Payment.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.PaymentRegistry.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Properties.Resources.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Staff.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.StaffRegistry.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Student.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.StudentRegistry.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Visitor.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.VisitorRegistry.resources
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.GenerateResource.cache
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.CoreCompileInputs.cache
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.exe
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.pdb
+D:\GÜNCEL\Ataman V5\AtamanApart\bin\Debug\AtamanApart.exe.config
+D:\GÜNCEL\Ataman V5\AtamanApart\bin\Debug\AtamanApart.exe
+D:\GÜNCEL\Ataman V5\AtamanApart\bin\Debug\AtamanApart.pdb
+D:\GÜNCEL\Ataman V5\AtamanApart\bin\Debug\MaterialSkin.dll
+D:\GÜNCEL\Ataman V5\AtamanApart\bin\Debug\Interop.AcroPDFLib.dll
+D:\GÜNCEL\Ataman V5\AtamanApart\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\GÜNCEL\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.CopyComplete
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\bin\Debug\AtamanApart.exe.config
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\bin\Debug\AtamanApart.exe
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\bin\Debug\AtamanApart.pdb
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\bin\Debug\MaterialSkin.dll
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\bin\Debug\Interop.AcroPDFLib.dll
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csprojAssemblyReference.cache
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\Interop.AcroPDFLib.dll
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.ResolveComReference.cache
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.RoomInfo.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Signup.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.MainPage.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Login.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Payment.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.PaymentRegistry.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Properties.Resources.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Staff.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.StaffRegistry.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Student.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.StudentRegistry.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Visitor.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.VisitorRegistry.resources
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.GenerateResource.cache
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.CoreCompileInputs.cache
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.CopyComplete
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.exe
+F:\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.pdb
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\bin\Debug\AtamanApart.exe.config
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\bin\Debug\AtamanApart.exe
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\bin\Debug\MaterialSkin.dll
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csprojAssemblyReference.cache
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\Interop.AcroPDFLib.dll
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.ResolveComReference.cache
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.RoomInfo.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Signup.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.MainPage.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Login.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Payment.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.PaymentRegistry.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Properties.Resources.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Staff.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.StaffRegistry.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Student.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.StudentRegistry.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.Visitor.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.VisitorRegistry.resources
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.GenerateResource.cache
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.CoreCompileInputs.cache
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.csproj.CopyComplete
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.exe
+D:\EVERYTHING\Okul\4-Sinif\2.dönem\AybukeKumas_BaharKuzu_CerenComert_EzgiBasegmez\programdosyalari\Ataman V5\AtamanApart\obj\Debug\AtamanApart.pdb
